@@ -31,7 +31,7 @@ public class Anagram {
 		{
 			if(ch1[i]!=ch2[i])
 			{
-				System.out.println("given string is not Anagram");
+				System.out.println("given string is not Anagram string");
 				System.exit(0);
 			}
 		}
